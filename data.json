@@ -1,0 +1,37 @@
+[
+    {
+        "product_name": "Cheesy Puffs",
+        "product_description": "Cheesy puffs are made of a mixture of cheese powder and cornmeal, giving them a crunchy texture and cheesy flavor.",
+        "product_price": 3.99,
+        "product_dateAdded": "2024-02-06",
+        "product_ExpirationDate": "2027-02-06"
+    },
+    {
+        "product_name": "Chocolate-covered Marshmallows",
+        "product_description": "Chocolate-covered marshmallows are made from fluffy marshmallows coated in rich chocolate.",
+        "product_price": 2.49,
+        "product_dateAdded": "2024-04-07",
+        "product_ExpirationDate": "2027-02-06"
+    },
+    {
+        "product_name": "Rainbow Gummy Bears",
+        "product_description": "Rainbow gummy bears are chewy candies in various fruit flavors and vibrant colors.",
+        "product_price": 4.99,
+        "product_dateAdded": "2024-02-08",
+        "product_ExpirationDate": "2029-02-06"
+    },
+    {
+        "product_name": "Caramel Popcorn",
+        "product_description": "Caramel popcorn is made by coating popped corn kernels with a sweet caramel glaze.",
+        "product_price": 3.89,
+        "product_dateAdded": "2024-09-08",
+        "product_ExpirationDate": "2029-02-06"
+    },
+    {
+        "product_name": "Sour Candy Strips",
+        "product_description": "Sour candy strips are tangy candies in various fruit flavors, perfect for a sour-sweet treat.",
+        "product_price": 1.99,
+        "product_dateAdded": "2024-11-08",
+        "product_ExpirationDate": "2025-02-9"
+    }
+]
